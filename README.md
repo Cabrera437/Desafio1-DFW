@@ -28,3 +28,9 @@
 |------------------------------|-------------------------------|
 | **Nelson Ricardo Murciar**    | :computer: Desarrollador      |
 | **Mario Steven Cabrera**      | :computer: Desarrollador      |
+
+> [!IMPORTANT]
+> AHORA EJECUTAREMOS LOS COMANDOS PARA LEVANTAR EL PROYECTO <br>
+```
+mvn spring-boot:run
+```
