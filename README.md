@@ -9,6 +9,10 @@
 <img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </p>
 
+> [!NOTE]
+>  en el apartado de enlaces esta uno llamado  respaldo proyecto ese nos llavara a un drive donde el  proyecto esta comprido en un rar este ya incluye todo lo nccesario para
+> que funcione el proyecto  solo debemos copiar todos los recuerso menos la base datos a  nuesta carpeta de xamp o wamp , esto por si hay problemas de copiar los recursos del proyecto y ivitar errores 
+<br>
 
 
  
@@ -17,6 +21,7 @@
 
 <pre>
 🌱 grupo: DWF404 G01L
+🌱 Editorial Alba
 🌱 Desarrollo de Aplicaciones con Web Frameworks
 🌱 en este Repositorio se encuentra el primer desafio de DWF
 🌱 lenguaje utilizado  Java con el framework Spring
@@ -30,7 +35,34 @@
 | **Mario Steven Cabrera**      | :computer: Desarrollador      |
 
 > [!IMPORTANT]
-> AHORA EJECUTAREMOS LOS COMANDOS PARA LEVANTAR EL PROYECTO <br>
+> AHORA EJECUTAREMOS LOS COMANDOS PARA LEVANTAR EL PROYECTO TAMBIEN MENCIONAR QUE NECESITAMOS UNAS DE LAS SIGUIENTES APLIACIONES PODER PROBARLO PUDER POST MAN O Thunder Client este una extension vscode que nos permite hacer lo mismo que postman <br>
 ```
 mvn spring-boot:run
 ```
+> [!NOTE]
+> CON LOS SIGUIENTES PODREMOS VER UN FUNCINAMIENTO DE NUESTRA EDITORIAL Alba 
+```
+POST crear un libro
+http://localhost:8080/books
+```
+```
+GET lista un Libro un pocas podemos vizualizarlo que esta en agregado 
+http://localhost:8080/books
+```
+```
+GET busca un Libro este caso clean code
+http://localhost:8080/books/search?title=Clean
+```
+```
+Delete Borrar un libro id este caso el libro uno 
+http://localhost:8080/books/1
+```
+```
+en esta direccion podemos encontrar el archivo JSON ya que los datos lo guarda ahi 
+src/main/resources/books.json
+```
+
+
+
+
+
