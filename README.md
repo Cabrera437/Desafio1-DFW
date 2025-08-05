@@ -8,13 +8,6 @@
 <p align = "center">
 <img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </p>
-
-> [!NOTE]
->  en el apartado de enlaces esta uno llamado  respaldo proyecto ese nos llavara a un drive donde el  proyecto esta comprido en un rar este ya incluye todo lo nccesario para
-> que funcione el proyecto  solo debemos copiar todos los recuerso menos la base datos a  nuesta carpeta de xamp o wamp , esto por si hay problemas de copiar los recursos del proyecto y ivitar errores 
-<br>
-
-
  
 </div>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
