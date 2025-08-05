@@ -62,6 +62,12 @@ en esta direccion podemos encontrar el archivo JSON ya que los datos lo guarda a
 src/main/resources/books.json
 ```
 
+```
+detiene la ejecucion 
+crt + C
+```
+
+
 
 
 
