@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "Harry potter",
+    "author": "J. K. Rowling",
+    "publicationYear": 1997
+  },
+  {
+    "id": 3,
+    "title": "Amacer rojo",
+    "author": "Libro de Pierce Brown",
+    "publicationYear": 2014
+  },
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publicationYear": 2008
+  }
+]
