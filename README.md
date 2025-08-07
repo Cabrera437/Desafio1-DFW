@@ -24,7 +24,7 @@
 
 | Desarrollador                | Rol                           |
 |------------------------------|-------------------------------|
-| **Nelson Ricardo Murciar**    | :computer: Desarrollador      |
+| **Nelson Ricardo Murcia**    | :computer: Desarrollador      |
 | **Mario Steven Cabrera**      | :computer: Desarrollador      |
 
 > [!IMPORTANT]
